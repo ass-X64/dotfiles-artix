@@ -1,0 +1,63 @@
+Jan 29 08:28 : update: added /Bikini Bottom.Created.With.Ytmdl.mp3
+Jan 29 08:28 : update: added /Shinunoga E-Wa.Created.With.Ytmdl.mp3
+Jan 29 08:28 : update: added /KAK MOMMY (phonk).Created.With.Ytmdl.mp3
+Jan 29 08:28 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 08:28 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 08:28 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 08:28 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 08:28 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 08:45 : player: played "Shinunoga E-Wa.Created.With.Ytmdl.mp3"
+Jan 29 13:31 : update: added /Loading[medium].mp3
+Jan 29 13:31 : update: added /Bikini Bottom.Created.With.Ytmdl.mp3
+Jan 29 13:31 : update: added /Shinunoga E-Wa.Created.With.Ytmdl.mp3
+Jan 29 13:31 : update: added /KAK MOMMY (phonk).Created.With.Ytmdl.mp3
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:31 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:32 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:32 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:32 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:32 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:32 : player: played "Loading[medium].mp3"
+Jan 29 13:34 : player: played "Bikini Bottom.Created.With.Ytmdl.mp3"
+Jan 29 13:46 : player: played "Shinunoga E-Wa.Created.With.Ytmdl.mp3"
+Jan 29 13:46 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 13:52 : exception: Failed to open /home/rushabhp/.mpd/playlists: No such file or directory
+Jan 29 14:08 : player: played "Loading[medium].mp3"
+Jan 29 14:53 : player: played "Loading[medium].mp3"
+Jan 29 12:57 : player: played "Shinunoga E-Wa.Created.With.Ytmdl.mp3"
+Jan 29 18:30 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 29 18:54 : player: played "Shinunoga E-Wa.Created.With.Ytmdl.mp3"
+Jan 29 18:54 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 29 18:54 : player: played "Shinunoga E-Wa.Created.With.Ytmdl.mp3"
+Jan 29 18:54 : update: added /Loading[medium].mp3
+Jan 29 18:54 : update: added /NEON BLADE[high].ogg
+Jan 29 18:54 : update: added /Bikini Bottom.Created.With.Ytmdl.mp3
+Jan 29 18:54 : update: added /Shinunoga E-Wa.Created.With.Ytmdl.mp3
+Jan 29 18:54 : update: added /KAK MOMMY[high].ogg
+Jan 29 18:54 : update: added /KAK MOMMY (phonk).Created.With.Ytmdl.mp3
+Jan 29 18:58 : update: added /Loading[medium].mp3
+Jan 29 18:58 : update: added /NEON BLADE[high].ogg
+Jan 29 18:58 : update: added /Bikini Bottom.Created.With.Ytmdl.mp3
+Jan 29 18:58 : update: added /Shinunoga E-Wa.Created.With.Ytmdl.mp3
+Jan 29 18:58 : update: added /KAK MOMMY[high].ogg
+Jan 29 18:58 : update: added /KAK MOMMY (phonk).Created.With.Ytmdl.mp3
+Jan 29 18:58 : update: added /Give It To Me[high].ogg
+Jan 29 18:58 : ffmpeg/opus: Could not update timestamps for skipped samples.
+Jan 29 18:58 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Jan 29 13:28 : player: played "Give It To Me[high].ogg"
