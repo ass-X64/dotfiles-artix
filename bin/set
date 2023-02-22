@@ -1,0 +1,3 @@
+ 
+#!/bin/bash
+xrdb -merge ~/.cache/wal/rofi.xres &
