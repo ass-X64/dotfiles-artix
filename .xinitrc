@@ -52,7 +52,7 @@ fi
 setxkbmap us &
 res &
 picom -fb &
-wal -R -o wal-set &
+wal -R -o set &
 mpd &
 dunst &
 xautolock -time 10 -locker slock &
